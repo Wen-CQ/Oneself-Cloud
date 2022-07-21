@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.cq.wen.oneself.client.system.factory.RemoteUserFallbackFactory,\
+com.cq.wen.oneself.client.system.factory.RemoteLogFallbackFactory
+  

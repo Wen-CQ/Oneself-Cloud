@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Oneself-Cloud.iml" filepath="$PROJECT_DIR$/.idea/Oneself-Cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-client/oneself-client-system/oneself-client-system.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-client/oneself-client-system/oneself-client-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-core/oneself-common-core.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-core/oneself-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-datasource/oneself-common-datasource.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-datasource/oneself-common-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-log/oneself-common-log.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-log/oneself-common-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-redis/oneself-common-redis.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-redis/oneself-common-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-security/oneself-common-security.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-security/oneself-common-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-modules/oneself-module-system/oneself-module-system.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-modules/oneself-module-system/oneself-module-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-network/oneself-network-auth/oneself-network-auth.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-network/oneself-network-auth/oneself-network-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-network/oneself-network-gateway/oneself-network-gateway.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-network/oneself-network-gateway/oneself-network-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-client/wen-oneself-cloud-client.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-client/wen-oneself-cloud-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-common/wen-oneself-cloud-common.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-common/wen-oneself-cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-modules/wen-oneself-cloud-modules.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-modules/wen-oneself-cloud-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-network/wen-oneself-cloud-network.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-network/wen-oneself-cloud-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wen-oneself-cloud-parent/wen-oneself-cloud-parent.iml" filepath="$PROJECT_DIR$/wen-oneself-cloud-parent/wen-oneself-cloud-parent.iml" />
+    </modules>
+  </component>
+</project>

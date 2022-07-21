@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/wen-oneself-cloud-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/wen-oneself-cloud-modules/pom.xml" />
+        <option value="$PROJECT_DIR$/wen-oneself-cloud-modules/oneself-module-system/pom.xml" />
+        <option value="$PROJECT_DIR$/wen-oneself-cloud-common/pom.xml" />
+        <option value="$PROJECT_DIR$/wen-oneself-cloud-client/pom.xml" />
+        <option value="$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-log/pom.xml" />
+        <option value="$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-security/pom.xml" />
+        <option value="$PROJECT_DIR$/wen-oneself-cloud-common/oneself-common-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/wen-oneself-cloud-network/pom.xml" />
+        <option value="$PROJECT_DIR$/wen-oneself-cloud-network/oneself-network-gateway/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

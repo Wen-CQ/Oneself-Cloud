@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.cq.wen.oneself</groupId>
+        <artifactId>wen-oneself-cloud-parent</artifactId>
+        <version>0.0.1</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>oneself-network-auth</module>
+        <module>oneself-network-gateway</module>
+    </modules>
+
+
+    <artifactId>wen-oneself-cloud-network</artifactId>
+    <packaging>pom</packaging>
+
+    <description>
+        wen-oneself-cloud-network 网络模块(网关-权限认证)
+    </description>
+
+</project>

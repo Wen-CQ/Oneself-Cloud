@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.cq.wen.oneself.common.core.utils.SpringUtils
+
+  

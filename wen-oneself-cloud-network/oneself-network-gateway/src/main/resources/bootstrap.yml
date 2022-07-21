@@ -1,0 +1,43 @@
+# Tomcat
+server: 
+  port: 9200
+# Spring
+spring:
+  application:
+    # 应用名称
+    name: oneself-network-gateway
+  profiles:
+    # 环境配置
+    active: dev
+  cloud:
+    inetutils:
+      preferred-networks: 159.75.34.66
+    nacos:
+      discovery:
+        # 服务注册地址
+        server-addr: 159.75.34.66:8848
+      config:
+        # 配置中心地址
+        server-addr: 159.75.34.66:8848
+        # 配置文件格式
+        file-extension: yml
+        # 共享配置
+        shared-configs:
+          - application-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+    sentinel:
+      # 取消控制台懒加载
+      eager: true
+      transport:
+        # 控制台地址
+        dashboard: 59.75.34.66:9080
+      # nacos配置持久化
+      datasource:
+        ds1:
+          nacos:
+            server-addr: 159.75.34.66:8848
+            dataId: oneself-network-gateway
+            groupId: DEFAULT_GROUP
+            data-type: json
+            rule-type: flow
+  main:
+    allow-bean-definition-overriding: true

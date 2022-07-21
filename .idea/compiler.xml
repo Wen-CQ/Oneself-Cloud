@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="oneself-common-datasource" />
+        <module name="oneself-network-auth" />
+        <module name="oneself-module-system" />
+        <module name="oneself-common-redis" />
+        <module name="oneself-network-gateway" />
+        <module name="oneself-common-security" />
+        <module name="oneself-client-system" />
+        <module name="oneself-common-log" />
+        <module name="oneself-common-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="oneself-client-system" target="1.8" />
+      <module name="oneself-common-core" target="1.8" />
+      <module name="oneself-common-datasource" target="1.8" />
+      <module name="oneself-common-log" target="1.8" />
+      <module name="oneself-common-redis" target="1.8" />
+      <module name="oneself-common-security" target="1.8" />
+      <module name="oneself-module-system" target="1.8" />
+      <module name="oneself-modules-system" target="1.8" />
+      <module name="oneself-network-auth" target="1.8" />
+      <module name="oneself-network-gateway" target="1.8" />
+      <module name="ruoyi" target="1.5" />
+      <module name="wen-oneself-cloud-client" target="1.8" />
+      <module name="wen-oneself-cloud-common" target="1.8" />
+      <module name="wen-oneself-cloud-common (1)" target="1.8" />
+      <module name="wen-oneself-cloud-modules" target="1.8" />
+      <module name="wen-oneself-cloud-network" target="1.8" />
+      <module name="wen-oneself-cloud-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
