@@ -7,6 +7,7 @@
         <artifactId>wen-oneself-cloud-common</artifactId>
         <version>0.0.1</version>
     </parent>
+
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>oneself-common-core</artifactId>
@@ -136,5 +137,8 @@
 <!--        </dependency>-->
 
     </dependencies>
+
+
+
 
 </project>
