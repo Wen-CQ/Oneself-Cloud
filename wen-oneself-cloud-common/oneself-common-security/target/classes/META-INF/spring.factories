@@ -1,6 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.cq.wen.oneself.common.security.config.WebMvcConfig,\
-  com.cq.wen.oneself.common.security.service.TokenService,\
-  com.cq.wen.oneself.common.security.aop.PreAuthorizeAspect,\
-  com.cq.wen.oneself.common.security.aop.InnerAuthAspect,\
-  com.cq.wen.oneself.common.security.handler.GlobalExceptionHandler
