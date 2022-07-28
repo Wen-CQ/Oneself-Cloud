@@ -68,6 +68,7 @@
         <dependency>
             <groupId>com.cq.wen.oneself</groupId>
             <artifactId>oneself-common-redis</artifactId>
+            <version>${oneself.version}</version>
         </dependency>
 
     </dependencies>

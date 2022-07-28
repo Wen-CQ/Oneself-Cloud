@@ -25,11 +25,13 @@
         <dependency>
             <groupId>com.cq.wen.oneself</groupId>
             <artifactId>oneself-common-redis</artifactId>
+            <version>${oneself.version}</version>
         </dependency>
 
         <dependency>
             <groupId>com.cq.wen.oneself</groupId>
             <artifactId>oneself-common-log</artifactId>
+            <version>${oneself.version}</version>
         </dependency>
 
     </dependencies>

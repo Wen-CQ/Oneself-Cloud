@@ -19,11 +19,13 @@
         <dependency>
             <groupId>com.cq.wen.oneself</groupId>
             <artifactId>oneself-common-core</artifactId>
+            <version>${oneself.version}</version>
         </dependency>
 
         <dependency>
             <groupId>com.cq.wen.oneself</groupId>
             <artifactId>oneself-client-system</artifactId>
+            <version>${oneself.version}</version>
         </dependency>
 
     </dependencies>

@@ -26,6 +26,7 @@
         <dependency>
             <groupId>com.cq.wen.oneself</groupId>
             <artifactId>oneself-common-core</artifactId>
+            <version>${oneself.version}</version>
         </dependency>
 
 
